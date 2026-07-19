@@ -20,10 +20,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
+| [0118-pascals-triangle](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
