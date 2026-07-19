@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0039-combination-sum) |
 | [0073-set-matrix-zeroes](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
