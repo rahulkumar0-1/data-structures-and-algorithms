@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0142-linked-list-cycle-ii](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
