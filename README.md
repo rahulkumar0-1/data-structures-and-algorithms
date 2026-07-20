@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0540-single-element-in-a-sorted-array](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -45,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0039-combination-sum) |
+## Binary Search
+|  |
+| ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0540-single-element-in-a-sorted-array) |
 <!---LeetCode Topics End-->
