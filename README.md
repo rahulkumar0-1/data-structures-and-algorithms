@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0072-edit-distance](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0072-edit-distance) |
 ## Sliding Window
 |  |
 | ------- |
