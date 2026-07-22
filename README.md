@@ -55,4 +55,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0300-longest-increasing-subsequence) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0540-single-element-in-a-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
