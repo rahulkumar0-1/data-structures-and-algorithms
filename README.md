@@ -71,4 +71,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0901-online-stock-span) |
+## Depth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0210-course-schedule-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0210-course-schedule-ii) |
+## Graph Theory
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0210-course-schedule-ii) |
+## Topological Sort
+|  |
+| ------- |
+| [0210-course-schedule-ii](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0210-course-schedule-ii) |
 <!---LeetCode Topics End-->
