@@ -5,8 +5,8 @@ public:
         vector<int> indegree(n, 0);
         queue<int> q;
         vector<int> ans;
-        for (auto p : pre) {
-            adj[p[1]].push_back(p[0]);
+        for (int i = 0; i < pre.size(); i++) {
+            adj[pre[i][1]].push_back(pre[i][0]);
         }
         for (int i = 0; i < n; i++) {
             for (auto it : adj[i]) {
