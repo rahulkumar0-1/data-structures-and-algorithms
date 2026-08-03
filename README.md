@@ -74,17 +74,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0210-course-schedule-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0210-course-schedule-ii) |
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0210-course-schedule-ii) |
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0210-course-schedule-ii) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/rahulkumar0-1/data-structures-and-algorithms/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
